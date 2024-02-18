@@ -45,7 +45,12 @@ EDA involved exploring the Super Eagles AFCON data to answer key question, such 
  2. The total number of  goals scored by the Super Eagles in the AFCON 2023 is 7.
  3. The total number of goals conceded by the goalkeeper in the AFCON is 4.
  4. The average age of the players in the Super Eagles is 26.6.
- 5. Frank Onyeka has the highest 
- 6. 
+ 5. Frank Onyeka has the highest number of interceptions in the Super Eagles team throughout the AFCON tournament.
+ 6. "Ademola Lookman committed the highest number of fouls in the Super Eagles team throughout the AFCON tournament.
+ 7. Victor Osimhen has the highest number of shots on target in the Super Eagles team throughout the AFCON tournament.
+ 8. Ademola Lookman has the highest number of combined goals and assist in the Super Eagles team throughout the AFCON tournament.
+ 9. The goalkeeper has conceded goals at a rate of 17.39%, while saving shots at a rate of 82.61%.
+
+
 
 
