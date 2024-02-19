@@ -16,6 +16,9 @@
 
 This data analysis project aims to analyze and evaluate the performance of the Super Eagles, the Nigerian national football team, during the AFCON (Africa Cup of Nations) tournament held in 2023
 
+[Super Eagles.xlsx](https://github.com/JamesChikwe/Super_Eagles_Player_Analysis-AFCON-2023./files/14331148/Super.Eagles.xlsx)
+
+
 ### Data Sources
 
 Super Eagles AFCON: The primary dataset used for this analysis is the "Super_Eagles_AFCON.csv" file, it contains data related to the performance of the Super Eagles team during the AFCON 2023 tournament. 
@@ -52,6 +55,9 @@ EDA involved exploring the Super Eagles AFCON data to answer key question, such 
  After we downloaded the data, we cleaned the data by removing the unwanted rows in the sheets and we used PowerBI to create our dashboard to show all our findings.
 
  ### Results:
+
+ ![Super Eagles Afcon1_page-0001](https://github.com/JamesChikwe/Super_Eagles_Player_Analysis-AFCON-2023./assets/153011574/05819c22-980d-4fc4-b3b1-355386f8982e)
+
  The analysis results are summarized as follows:
  1. The total number of matches played by the Super Eagles in the AFCON 2023 is 7.
  2. The total number of  goals scored by the Super Eagles in the AFCON 2023 is 7.
