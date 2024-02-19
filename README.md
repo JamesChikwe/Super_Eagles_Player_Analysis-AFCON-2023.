@@ -56,7 +56,7 @@ EDA involved exploring the Super Eagles AFCON data to answer key question, such 
 
  ### Results:
 
- ![Super Eagles Afcon1_page-0001](https://github.com/JamesChikwe/Super_Eagles_Player_Analysis-AFCON-2023./assets/153011574/05819c22-980d-4fc4-b3b1-355386f8982e)
+ ![Super Eagles Player Analysis - AFCON 2023 Dashboard](https://github.com/JamesChikwe/Super_Eagles_Player_Analysis-AFCON-2023./assets/153011574/c1edbaeb-84e7-4765-babd-f262a3b96b37)
 
  The analysis results are summarized as follows:
  1. The total number of matches played by the Super Eagles in the AFCON 2023 is 7.
